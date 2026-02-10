@@ -1,0 +1,31 @@
+2025-05-06T19:24:00.905001014: User registered: Monal
+2025-05-06T19:24:11.538168307: User logged in: Monal
+2025-05-06T19:24:14.838205216: Displayed all routes
+2025-05-06T19:24:24.910553861: Filtered routes: b to d
+2025-05-06T19:24:30.108129467: User exited application
+2025-05-06T19:25:42.232714713: Failed login attempt for username: Monal
+2025-05-06T19:25:49.282353535: User logged in: Monal
+2025-05-06T19:25:54.049198694: Displayed all routes
+2025-05-06T19:25:56.689233515: Sorted routes by time
+2025-05-06T19:26:01.260901489: Sorted routes by stops
+2025-05-06T19:26:03.758468821: Displayed locations
+2025-05-08T05:54:57.621684623: Failed login attempt for username: Monal
+2025-05-08T05:55:08.671221362: Failed login attempt for username: Monaal
+2025-05-08T05:55:21.665485684: User logged in: Monal
+2025-05-08T05:55:43.667674743: Deleted route at index: 4
+2025-05-08T05:56:05.999049696: Deleted route at index: 3
+2025-05-08T07:14:30.195427514: Failed login attempt for username: monal
+2025-05-08T07:14:41.421065859: User logged in: Monal
+2025-05-08T07:14:57.087785975: Sorted routes by time
+2025-05-13T12:59:28.234073300: Failed login attempt for username: Piyush
+2025-05-13T12:59:42.254902300: User logged in: Monal
+2025-05-13T12:59:52.633484400: Displayed all routes
+2025-05-13T13:00:26.424484200: Filtered routes: A to D
+2025-05-13T13:00:34.683196600: Sorted routes by time
+2025-05-13T13:00:46.537958500: Sorted routes by stops
+2025-05-13T13:00:51.656381200: Displayed locations
+2026-02-10T22:32:34.415269500: User registered: Piyush
+2026-02-10T22:32:44.345752200: Failed login attempt for username: 12345
+2026-02-10T22:32:58.622871: User logged in: Piyush
+2026-02-10T22:33:01.550857800: Displayed all routes
+2026-02-10T22:33:08.964644700: User exited application
