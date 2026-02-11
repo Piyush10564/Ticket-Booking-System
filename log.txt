@@ -29,3 +29,7 @@
 2026-02-10T22:32:58.622871: User logged in: Piyush
 2026-02-10T22:33:01.550857800: Displayed all routes
 2026-02-10T22:33:08.964644700: User exited application
+2026-02-11T09:44:28.935763: User logged in: Piyush
+2026-02-11T09:44:33.540371700: Displayed all routes
+2026-02-11T09:44:46.491966: Sorted routes by time
+2026-02-11T09:44:52.329966500: Displayed locations
